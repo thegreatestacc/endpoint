@@ -18,7 +18,7 @@ public class EndpointController {
     private List<Integer> result = new ArrayList<>();
 
     @GetMapping("/endpointA")
-    public ResponseEntity endpointA(@RequestParam("number") String str) {
+    public ResponseEntity endpointA(@RequestParam(value = "number", required = false) String str) {
         List<Integer> response = new ArrayList<>();
         List<Integer> inputNumbers = new ArrayList<>();
         char[] chars = str.toCharArray();
@@ -28,12 +28,17 @@ public class EndpointController {
             response.add(++i);
         }
         result = response;
+
+        if (result.isEmpty()) {
+            logger.warn("result is empty!");
+            return new ResponseEntity(HttpStatus.BAD_REQUEST);
+        } else
         logger.info("all numbers got: " + inputNumbers + ", and changed to: " + result);
         return new ResponseEntity(HttpStatus.OK);
     }
 
     @PostMapping("/endpointB")
-    public ResponseEntity endpointB(@RequestParam("number") Integer n) {
+    public ResponseEntity endpointB(@RequestParam(value = "number", required = false) Integer n) {
         List<Integer> response = new ArrayList<>();
         response.add(n);
         result = response;
