@@ -38,6 +38,7 @@ public class EndpointController {
     @PostMapping("/endpointB")
     public ResponseEntity endpointB(@RequestParam(value = "number", required = false) Integer n) {
         List<Integer> response = new ArrayList<>();
+        logger.info("all numbers is: " + result);
         response.add(n);
         result = response;
         logger.info("all numbers changed to new: " + result);
