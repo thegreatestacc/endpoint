@@ -31,17 +31,17 @@ public class EndpointController {
             logger.warn("result is empty!");
             return new ResponseEntity(HttpStatus.BAD_REQUEST);
         } else
-        logger.info("all numbers got: " + inputNumbers + ", and changed to: " + result);
+        logger.info("***LOGGER: all numbers got: " + inputNumbers + ", and changed to: " + result + " ***");
         return new ResponseEntity(HttpStatus.OK);
     }
 
     @PostMapping("/endpointB")
     public ResponseEntity endpointB(@RequestParam(value = "number", required = false) Integer n) {
         List<Integer> response = new ArrayList<>();
-        logger.info("all numbers is: " + result);
+        logger.info("**LOGGER: all numbers is: " + result + " ***");
         response.add(n);
         result = response;
-        logger.info("all numbers changed to new: " + result);
+        logger.info("**LOGGER: all numbers changed to new: " + result + " ***");
         return new ResponseEntity(HttpStatus.OK);
     }
 }

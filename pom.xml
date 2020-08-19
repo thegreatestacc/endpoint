@@ -50,11 +50,11 @@
             <artifactId>cxf-rt-transports-http</artifactId>
             <version>3.0.3</version>
         </dependency>
-        <dependency>
+        <!--<dependency>
             <groupId>org.apache.cxf</groupId>
             <artifactId>cxf-rt-transports-http</artifactId>
             <version>3.0.3</version>
-        </dependency>
+        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
@@ -83,5 +83,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>docker-spring-boot</finalName>
     </build>
 </project>
