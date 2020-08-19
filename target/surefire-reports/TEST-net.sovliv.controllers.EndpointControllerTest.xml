@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="net.sovliv.controllers.EndpointControllerTest" time="3.102" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="net.sovliv.controllers.EndpointControllerTest" time="3.893" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\bin"/>
@@ -15,13 +15,13 @@
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="user.dir" value="C:\Users\1\Desktop\java_tests\sber\endpoint"/>
-    <property name="PID" value="12248"/>
+    <property name="PID" value="7896"/>
     <property name="java.runtime.version" value="1.8.0_191-b12"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="basedir" value="C:\Users\1\Desktop\java_tests\sber\endpoint"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
-    <property name="surefire.real.class.path" value="C:\Users\1\Desktop\java_tests\sber\endpoint\target\surefire\surefirebooter5240157465378448164.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\1\Desktop\java_tests\sber\endpoint\target\surefire\surefirebooter2533120539512730768.jar"/>
     <property name="java.io.tmpdir" value="C:\Users\1\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>
@@ -46,7 +46,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_191\jre"/>
-    <property name="sun.java.command" value="C:\Users\1\Desktop\java_tests\sber\endpoint\target\surefire\surefirebooter5240157465378448164.jar C:\Users\1\Desktop\java_tests\sber\endpoint\target\surefire\surefire8374839829190515040tmp C:\Users\1\Desktop\java_tests\sber\endpoint\target\surefire\surefire6888760165036026329tmp"/>
+    <property name="sun.java.command" value="C:\Users\1\Desktop\java_tests\sber\endpoint\target\surefire\surefirebooter2533120539512730768.jar C:\Users\1\Desktop\java_tests\sber\endpoint\target\surefire\surefire3042324099311900324tmp C:\Users\1\Desktop\java_tests\sber\endpoint\target\surefire\surefire2260744020036875622tmp"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="ru"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -64,6 +64,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="net.sovliv.controllers.EndpointControllerTest" name="endpointA" time="0.338"/>
-  <testcase classname="net.sovliv.controllers.EndpointControllerTest" name="endpointB" time="0.01"/>
+  <testcase classname="net.sovliv.controllers.EndpointControllerTest" name="endpointA" time="0.356"/>
+  <testcase classname="net.sovliv.controllers.EndpointControllerTest" name="endpointB" time="0.018"/>
 </testsuite>

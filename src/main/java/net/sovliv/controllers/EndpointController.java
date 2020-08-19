@@ -13,35 +13,36 @@ import java.util.List;
 @RequestMapping("/endpoint")
 public class EndpointController {
     private static Logger logger = LoggerFactory.getLogger(EndpointController.class);
-    private List<Integer> result = new ArrayList<>();
+    private List<String> result = new ArrayList<>();
 
     @GetMapping("/endpointA")
     public ResponseEntity endpointA(@RequestParam(value = "number", required = false) String str) {
-        List<Integer> response = new ArrayList<>();
+        List<String> response = new ArrayList<>();
         List<Integer> inputNumbers = new ArrayList<>();
         char[] chars = str.toCharArray();
         for (char c : chars) {
             int i = Character.getNumericValue(c);
             inputNumbers.add(i);
-            response.add(++i);
+            response.add(String.valueOf(++i));
         }
         result = response;
 
         if (result.isEmpty()) {
             logger.warn("result is empty!");
             return new ResponseEntity(HttpStatus.BAD_REQUEST);
-        } else
-        logger.info("***LOGGER: all numbers got: " + inputNumbers + ", and changed to: " + result + " ***");
-        return new ResponseEntity(HttpStatus.OK);
+        } else {
+            logger.info("***LOGGER: all numbers got: " + inputNumbers + ", and changed to: " + result + " ***");
+            return new ResponseEntity(result, HttpStatus.OK);
+        }
     }
 
     @PostMapping("/endpointB")
     public ResponseEntity endpointB(@RequestParam(value = "number", required = false) Integer n) {
-        List<Integer> response = new ArrayList<>();
-        logger.info("**LOGGER: all numbers is: " + result + " ***");
-        response.add(n);
+        List<String> response = new ArrayList<>();
+        logger.info("***LOGGER: all numbers is: " + result + " ***");
+        response.add(String.valueOf(n));
         result = response;
-        logger.info("**LOGGER: all numbers changed to new: " + result + " ***");
-        return new ResponseEntity(HttpStatus.OK);
+        logger.info("***LOGGER: all numbers changed to new: " + result + " ***");
+        return new ResponseEntity(result, HttpStatus.OK);
     }
 }

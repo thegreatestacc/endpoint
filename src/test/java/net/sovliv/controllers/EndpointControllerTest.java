@@ -7,6 +7,7 @@ import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
+import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
@@ -22,6 +23,7 @@ public class EndpointControllerTest {
     public void endpointA() throws Exception {
         mockMvc.perform(MockMvcRequestBuilders.get("http://localhost:8080/endpoint/endpointA?number=123"))
                 .andDo(print())
+                .andExpect(MockMvcResultMatchers.content().string("[\"2\",\"3\",\"4\"]"))
                 .andExpect(status().isOk());
     }
 
@@ -29,6 +31,7 @@ public class EndpointControllerTest {
     public void endpointB() throws Exception {
         mockMvc.perform(MockMvcRequestBuilders.post("http://localhost:8080/endpoint/endpointB?number=1"))
                 .andDo(print())
+                .andExpect(MockMvcResultMatchers.content().string("[\"1\"]"))
                 .andExpect(status().isOk());
     }
 }
