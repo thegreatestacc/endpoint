@@ -21,17 +21,17 @@ public class EndpointControllerTest {
 
     @Test
     public void endpointA() throws Exception {
-        mockMvc.perform(MockMvcRequestBuilders.get("http://localhost:8080/endpoint/endpointA?number=123"))
+        mockMvc.perform(MockMvcRequestBuilders.get("http://localhost:8081/endpoint/endpointA?number=123"))
                 .andDo(print())
-                .andExpect(MockMvcResultMatchers.content().string("[\"2\",\"3\",\"4\"]"))
+                .andExpect(MockMvcResultMatchers.content().string("{\"1\":\"2\",\"2\":\"3\",\"3\":\"4\"}"))
                 .andExpect(status().isOk());
     }
 
     @Test
     public void endpointB() throws Exception {
-        mockMvc.perform(MockMvcRequestBuilders.post("http://localhost:8080/endpoint/endpointB?number=1"))
+        mockMvc.perform(MockMvcRequestBuilders.post("http://localhost:8081/endpoint/endpointB?number=9"))
                 .andDo(print())
-                .andExpect(MockMvcResultMatchers.content().string("[\"1\"]"))
+                .andExpect(MockMvcResultMatchers.content().string("{\"1\":\"9\",\"2\":\"3\",\"3\":\"4\"}"))
                 .andExpect(status().isOk());
     }
 }

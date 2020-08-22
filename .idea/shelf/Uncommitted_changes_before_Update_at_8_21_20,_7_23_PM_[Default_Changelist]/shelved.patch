@@ -1,0 +1,531 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"ALL\" />\n  </component>\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"19b63248-cdc1-479d-ae72-c8d846d7137b\" name=\"Default Changelist\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/compiler.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/compiler.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/encodings.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/target/classes/net/sovliv/controllers/EndpointController.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/target/classes/net/sovliv/controllers/EndpointController.class\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileEditorManager\">\n    <splitter split-orientation=\"horizontal\" split-proportion=\"0.55137205\">\n      <split-first>\n        <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\n          <file pinned=\"false\" current-in-tab=\"false\">\n            <entry file=\"file://$PROJECT_DIR$/pom.xml\">\n              <provider selected=\"true\" editor-type-id=\"text-editor\">\n                <state relative-caret-position=\"1408\">\n                  <caret line=\"64\" column=\"21\" selection-start-line=\"64\" selection-start-column=\"21\" selection-end-line=\"64\" selection-end-column=\"21\" />\n                </state>\n              </provider>\n            </entry>\n          </file>\n          <file pinned=\"false\" current-in-tab=\"true\">\n            <entry file=\"file://$PROJECT_DIR$/src/main/java/net/sovliv/RestApplication.java\">\n              <provider selected=\"true\" editor-type-id=\"text-editor\">\n                <state relative-caret-position=\"132\">\n                  <caret line=\"6\" column=\"13\" selection-start-line=\"6\" selection-start-column=\"13\" selection-end-line=\"6\" selection-end-column=\"13\" />\n                  <folding>\n                    <element signature=\"imports\" expanded=\"true\" />\n                  </folding>\n                </state>\n              </provider>\n            </entry>\n          </file>\n          <file pinned=\"false\" current-in-tab=\"false\">\n            <entry file=\"file://$PROJECT_DIR$/src/test/java/net/sovliv/controllers/EndpointControllerTest.java\">\n              <provider selected=\"true\" editor-type-id=\"text-editor\">\n                <state relative-caret-position=\"69\">\n                  <caret line=\"14\" column=\"8\" selection-start-line=\"14\" selection-start-column=\"8\" selection-end-line=\"14\" selection-end-column=\"8\" />\n                  <folding>\n                    <element signature=\"imports\" expanded=\"true\" />\n                  </folding>\n                </state>\n              </provider>\n            </entry>\n          </file>\n        </leaf>\n      </split-first>\n      <split-second>\n        <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\n          <file pinned=\"false\" current-in-tab=\"false\">\n            <entry file=\"file://$PROJECT_DIR$/src/main/java/net/sovliv/controllers/EndpointController.java\">\n              <provider selected=\"true\" editor-type-id=\"text-editor\">\n                <state relative-caret-position=\"22\">\n                  <caret line=\"18\" column=\"85\" selection-start-line=\"18\" selection-start-column=\"85\" selection-end-line=\"18\" selection-end-column=\"85\" />\n                  <folding>\n                    <element signature=\"imports\" expanded=\"true\" />\n                  </folding>\n                </state>\n              </provider>\n            </entry>\n          </file>\n          <file pinned=\"false\" current-in-tab=\"true\">\n            <entry file=\"file://$PROJECT_DIR$/Dockerfile\">\n              <provider selected=\"true\" editor-type-id=\"text-editor\">\n                <state relative-caret-position=\"66\">\n                  <caret line=\"3\" column=\"16\" lean-forward=\"true\" selection-start-line=\"3\" selection-start-column=\"16\" selection-end-line=\"3\" selection-end-column=\"16\" />\n                </state>\n              </provider>\n            </entry>\n          </file>\n        </leaf>\n      </split-second>\n    </splitter>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"CHANGED_PATHS\">\n      <list>\n        <option value=\"$PROJECT_DIR$/.idea/workspace.xml\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"generalSettings\">\n      <MavenGeneralSettings>\n        <option name=\"mavenHome\" value=\"$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3\" />\n      </MavenGeneralSettings>\n    </option>\n  </component>\n  <component name=\"ProjectId\" id=\"1gJlhP4a1Ux753Pf0BbXGOFSBHq\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectView\">\n    <navigator proportions=\"\" version=\"1\">\n      <foldersAlwaysOnTop value=\"true\" />\n    </navigator>\n    <panes>\n      <pane id=\"ProjectPane\">\n        <subPane>\n          <expand>\n            <path>\n              <item name=\"restappsber\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"endpoint\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"restappsber\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"endpoint\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"restappsber\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"endpoint\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"restappsber\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"endpoint\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"java\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"restappsber\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"endpoint\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"java\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"sovliv\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"restappsber\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"endpoint\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"java\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"sovliv\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"controllers\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"restappsber\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"endpoint\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"main\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"resources\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"restappsber\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"endpoint\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"test\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"restappsber\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"endpoint\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"test\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"java\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"restappsber\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"endpoint\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"test\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"java\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"controllers\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n          </expand>\n          <select />\n        </subPane>\n      </pane>\n      <pane id=\"Scope\" />\n      <pane id=\"PackagesPane\" />\n    </panes>\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RequestMappingsPanelOrder0\" value=\"0\" />\n    <property name=\"RequestMappingsPanelOrder1\" value=\"1\" />\n    <property name=\"RequestMappingsPanelWidth0\" value=\"75\" />\n    <property name=\"RequestMappingsPanelWidth1\" value=\"75\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp\" value=\"1597845928937\" />\n    <property name=\"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary\" value=\"JUnit5\" />\n    <property name=\"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5\" value=\"\" />\n    <property name=\"last_directory_selection\" value=\"$PROJECT_DIR$/src/test/java/net/sovliv\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.pluginManager\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CreateTestDialog.RecentsKey\">\n      <recent name=\"net.sovliv.controllers\" />\n    </key>\n    <key name=\"CreateTestDialog.Recents.Supers\">\n      <recent name=\"\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/main\" />\n    </key>\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"RunManager\" selected=\"Spring Boot.RestApplication (1)\">\n    <configuration name=\"EndpointControllerTest \" type=\"JUnit\" factoryName=\"JUnit\">\n      <module name=\"endpoint\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"net.sovliv.controllers.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"net.sovliv.controllers\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"net.sovliv.controllers.EndpointControllerTest\" />\n      <option name=\"METHOD_NAME\" value=\"\" />\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"EndpointControllerTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"restappsber\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"net.sovliv.controllers.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"net.sovliv.controllers\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"net.sovliv.controllers.EndpointControllerTest\" />\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"EndpointControllerTest.eachNumberIsOneMore (1)\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"restappsber\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"net.sovliv.controllers.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"net.sovliv.controllers\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"net.sovliv.controllers.EndpointControllerTest\" />\n      <option name=\"METHOD_NAME\" value=\"eachNumberIsOneMore\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"EndpointControllerTest.eachNumberIsOneMore\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"restappsber\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"net.sovliv.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"net.sovliv\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"net.sovliv.EndpointControllerTest\" />\n      <option name=\"METHOD_NAME\" value=\"eachNumberIsOneMore\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"RestApplication (1)\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"restappsber\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"net.sovliv.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"net.sovliv.RestApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"RestApplication (2)\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"endpoint\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"net.sovliv.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"net.sovliv.RestApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Spring Boot.RestApplication (1)\" />\n        <item itemvalue=\"JUnit.EndpointControllerTest\" />\n        <item itemvalue=\"Spring Boot.RestApplication (2)\" />\n        <item itemvalue=\"JUnit.EndpointControllerTest.eachNumberIsOneMore (1)\" />\n        <item itemvalue=\"JUnit.EndpointControllerTest.eachNumberIsOneMore\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" BundledDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" Dictionaries=\"0\" CorrectionsLimit=\"5\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" />\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"19b63248-cdc1-479d-ae72-c8d846d7137b\" name=\"Default Changelist\" comment=\"\" />\n      <created>1597658682575</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1597658682575</updated>\n      <workItem from=\"1597658687626\" duration=\"10196000\" />\n      <workItem from=\"1597670172781\" duration=\"6429000\" />\n      <workItem from=\"1597743619286\" duration=\"733000\" />\n      <workItem from=\"1597744387452\" duration=\"8789000\" />\n      <workItem from=\"1597840697332\" duration=\"2966000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TestHistory\">\n    <history-entry file=\"EndpointControllerTest - 2020.08.19 at 16h 51m 30s.xml\">\n      <configuration name=\"EndpointControllerTest\" configurationId=\"JUnit\" />\n    </history-entry>\n  </component>\n  <component name=\"TimeTrackingManager\">\n    <option name=\"totallyTimeSpent\" value=\"825000\" />\n  </component>\n  <component name=\"TodoView\">\n    <todo-panel id=\"selected-file\">\n      <is-autoscroll-to-source value=\"true\" />\n    </todo-panel>\n    <todo-panel id=\"all\">\n      <are-packages-shown value=\"true\" />\n      <is-autoscroll-to-source value=\"true\" />\n    </todo-panel>\n  </component>\n  <component name=\"ToolWindowManager\">\n    <frame x=\"-8\" y=\"-8\" width=\"1936\" height=\"1056\" extended-state=\"6\" />\n    <editor active=\"true\" />\n    <layout>\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.16471216\" />\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\n      <window_info id=\"Designer\" order=\"2\" />\n      <window_info id=\"Image Layers\" order=\"3\" />\n      <window_info id=\"Capture Tool\" order=\"4\" />\n      <window_info id=\"UI Designer\" order=\"5\" />\n      <window_info id=\"Favorites\" order=\"6\" side_tool=\"true\" />\n      <window_info id=\"Web\" order=\"7\" side_tool=\"true\" />\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" sideWeight=\"0.49946696\" visible=\"true\" weight=\"0.4355363\" />\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.30444205\" />\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" weight=\"0.32936078\" />\n      <window_info anchor=\"bottom\" id=\"Spring\" order=\"7\" />\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"8\" weight=\"0.2654388\" />\n      <window_info anchor=\"bottom\" id=\"Docker\" order=\"9\" show_stripe_button=\"false\" />\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"10\" sideWeight=\"0.50053304\" side_tool=\"true\" weight=\"0.4355363\" />\n      <window_info anchor=\"bottom\" id=\"Messages\" order=\"11\" weight=\"0.32936078\" />\n      <window_info anchor=\"bottom\" id=\"Java Enterprise\" order=\"12\" />\n      <window_info anchor=\"bottom\" id=\"Database Changes\" order=\"13\" />\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"14\" sideWeight=\"0.49946696\" weight=\"0.18526544\" />\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\n      <window_info anchor=\"right\" id=\"Maven\" order=\"3\" weight=\"0.32995737\" />\n      <window_info anchor=\"right\" id=\"Palette\" order=\"4\" />\n      <window_info anchor=\"right\" id=\"Capture Analysis\" order=\"5\" />\n      <window_info anchor=\"right\" id=\"Database\" order=\"6\" />\n      <window_info anchor=\"right\" id=\"Palette&#9;\" order=\"7\" />\n      <window_info anchor=\"right\" id=\"Theme Preview\" order=\"8\" />\n    </layout>\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"RECENTLY_FILTERED_USER_GROUPS\">\n                <collection />\n              </option>\n              <option name=\"RECENTLY_FILTERED_BRANCH_GROUPS\">\n                <collection />\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"RECENT_FILTERS\">\n      <map>\n        <entry key=\"Branch\">\n          <value>\n            <list />\n          </value>\n        </entry>\n        <entry key=\"User\">\n          <value>\n            <list />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"461\" y=\"172\" width=\"424\" height=\"379\" key=\"#BuildArtifactsBeforeRunChooser\" timestamp=\"1597843330194\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state x=\"461\" y=\"172\" width=\"424\" height=\"379\" key=\"#BuildArtifactsBeforeRunChooser/0.0.1366.728@0.0.1366.728\" timestamp=\"1597843330194\" />\n    <state x=\"403\" y=\"168\" width=\"549\" height=\"385\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1597841088926\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state x=\"403\" y=\"168\" width=\"549\" height=\"385\" key=\"#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728\" timestamp=\"1597841088926\" />\n    <state width=\"1324\" height=\"350\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1597843609348\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1324\" height=\"350\" key=\"GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728\" timestamp=\"1597843609348\" />\n    <state width=\"1324\" height=\"350\" key=\"GridCell.Tab.0.center\" timestamp=\"1597843609347\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1324\" height=\"350\" key=\"GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728\" timestamp=\"1597843609347\" />\n    <state width=\"1324\" height=\"350\" key=\"GridCell.Tab.0.left\" timestamp=\"1597843609347\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1324\" height=\"350\" key=\"GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728\" timestamp=\"1597843609347\" />\n    <state width=\"1324\" height=\"350\" key=\"GridCell.Tab.0.right\" timestamp=\"1597843609348\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1324\" height=\"350\" key=\"GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728\" timestamp=\"1597843609348\" />\n    <state width=\"1324\" height=\"211\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1597840840340\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1324\" height=\"211\" key=\"GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728\" timestamp=\"1597840840340\" />\n    <state width=\"1324\" height=\"211\" key=\"GridCell.Tab.1.center\" timestamp=\"1597840840339\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1324\" height=\"211\" key=\"GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728\" timestamp=\"1597840840339\" />\n    <state width=\"1324\" height=\"211\" key=\"GridCell.Tab.1.left\" timestamp=\"1597840840339\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1324\" height=\"211\" key=\"GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728\" timestamp=\"1597840840339\" />\n    <state width=\"1324\" height=\"211\" key=\"GridCell.Tab.1.right\" timestamp=\"1597840840340\">\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n    </state>\n    <state width=\"1324\" height=\"211\" key=\"GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728\" timestamp=\"1597840840340\" />\n  </component>\n  <component name=\"com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent\">\n    <option name=\"sizePresets\">\n      <list>\n        <SizePreset>\n          <option name=\"caption\" value=\"Phone\" />\n          <option name=\"height\" value=\"568\" />\n          <option name=\"width\" value=\"320\" />\n        </SizePreset>\n        <SizePreset>\n          <option name=\"caption\" value=\"Tablet\" />\n          <option name=\"height\" value=\"1024\" />\n          <option name=\"width\" value=\"768\" />\n        </SizePreset>\n        <SizePreset>\n          <option name=\"caption\" value=\"Desktop\" />\n          <option name=\"height\" value=\"900\" />\n          <option name=\"width\" value=\"1440\" />\n        </SizePreset>\n      </list>\n    </option>\n  </component>\n  <component name=\"debuggerHistoryManager\">\n    <expressions id=\"evaluateExpression\">\n      <expression>\n        <expression-string>result</expression-string>\n        <language-id>JAVA</language-id>\n        <evaluation-mode>EXPRESSION</evaluation-mode>\n      </expression>\n      <expression>\n        <expression-string>List&lt;Integer&gt; result = new ArrayList&lt;&gt;()</expression-string>\n        <language-id>JAVA</language-id>\n        <evaluation-mode>EXPRESSION</evaluation-mode>\n      </expression>\n    </expressions>\n  </component>\n  <component name=\"editorHistoryManager\">\n    <entry file=\"file://$PROJECT_DIR$/src/main/resources/application.properties\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/.idea/workspace.xml\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"-220\">\n          <folding>\n            <element signature=\"e#25339#25343#0\" expanded=\"true\" />\n            <element signature=\"e#25350#25354#0\" expanded=\"true\" />\n            <element signature=\"e#25377#25381#0\" expanded=\"true\" />\n            <element signature=\"e#25381#25385#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/net/sovliv/controllers/EndpointController.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"22\">\n          <caret line=\"18\" column=\"85\" selection-start-line=\"18\" selection-start-column=\"85\" selection-end-line=\"18\" selection-end-column=\"85\" />\n          <folding>\n            <element signature=\"imports\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/Dockerfile\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"66\">\n          <caret line=\"3\" column=\"16\" lean-forward=\"true\" selection-start-line=\"3\" selection-start-column=\"16\" selection-end-line=\"3\" selection-end-column=\"16\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/test/java/net/sovliv/controllers/EndpointControllerTest.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"69\">\n          <caret line=\"14\" column=\"8\" selection-start-line=\"14\" selection-start-column=\"8\" selection-end-line=\"14\" selection-end-column=\"8\" />\n          <folding>\n            <element signature=\"imports\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/main/java/net/sovliv/RestApplication.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"132\">\n          <caret line=\"6\" column=\"13\" selection-start-line=\"6\" selection-start-column=\"13\" selection-end-line=\"6\" selection-end-column=\"13\" />\n          <folding>\n            <element signature=\"imports\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n  </component>\n  <component name=\"masterDetails\">\n    <states>\n      <state key=\"ProjectJDKs.UI\">\n        <settings>\n          <last-edited>11</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n    </states>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision ff37d832b03e52602d29af1ee37174c6c9421067)
++++ .idea/workspace.xml	(date 1598026991815)
+@@ -25,79 +25,22 @@
+     <list default="true" id="19b63248-cdc1-479d-ae72-c8d846d7137b" name="Default Changelist" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/target/classes/net/sovliv/controllers/EndpointController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/sovliv/controllers/EndpointController.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/docker-spring-boot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/docker-spring-boot.jar" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/docker-spring-boot.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/docker-spring-boot.jar.original" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-net.sovliv.controllers.EndpointControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-net.sovliv.controllers.EndpointControllerTest.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/surefire-reports/net.sovliv.controllers.EndpointControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/net.sovliv.controllers.EndpointControllerTest.txt" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+-  <component name="FileEditorManager">
+-    <splitter split-orientation="horizontal" split-proportion="0.55137205">
+-      <split-first>
+-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+-          <file pinned="false" current-in-tab="false">
+-            <entry file="file://$PROJECT_DIR$/pom.xml">
+-              <provider selected="true" editor-type-id="text-editor">
+-                <state relative-caret-position="1408">
+-                  <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+-                </state>
+-              </provider>
+-            </entry>
+-          </file>
+-          <file pinned="false" current-in-tab="true">
+-            <entry file="file://$PROJECT_DIR$/src/main/java/net/sovliv/RestApplication.java">
+-              <provider selected="true" editor-type-id="text-editor">
+-                <state relative-caret-position="132">
+-                  <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+-                  <folding>
+-                    <element signature="imports" expanded="true" />
+-                  </folding>
+-                </state>
+-              </provider>
+-            </entry>
+-          </file>
+-          <file pinned="false" current-in-tab="false">
+-            <entry file="file://$PROJECT_DIR$/src/test/java/net/sovliv/controllers/EndpointControllerTest.java">
+-              <provider selected="true" editor-type-id="text-editor">
+-                <state relative-caret-position="69">
+-                  <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+-                  <folding>
+-                    <element signature="imports" expanded="true" />
+-                  </folding>
+-                </state>
+-              </provider>
+-            </entry>
+-          </file>
+-        </leaf>
+-      </split-first>
+-      <split-second>
+-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+-          <file pinned="false" current-in-tab="false">
+-            <entry file="file://$PROJECT_DIR$/src/main/java/net/sovliv/controllers/EndpointController.java">
+-              <provider selected="true" editor-type-id="text-editor">
+-                <state relative-caret-position="22">
+-                  <caret line="18" column="85" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
+-                  <folding>
+-                    <element signature="imports" expanded="true" />
+-                  </folding>
+-                </state>
+-              </provider>
+-            </entry>
+-          </file>
+-          <file pinned="false" current-in-tab="true">
+-            <entry file="file://$PROJECT_DIR$/Dockerfile">
+-              <provider selected="true" editor-type-id="text-editor">
+-                <state relative-caret-position="66">
+-                  <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+-                </state>
+-              </provider>
+-            </entry>
+-          </file>
+-        </leaf>
+-      </split-second>
+-    </splitter>
+-  </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+       <list>
+@@ -108,13 +51,6 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="IdeDocumentHistory">
+-    <option name="CHANGED_PATHS">
+-      <list>
+-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+-      </list>
+-    </option>
+-  </component>
+   <component name="MavenImportPreferences">
+     <option name="generalSettings">
+       <MavenGeneralSettings>
+@@ -124,89 +60,6 @@
+   </component>
+   <component name="ProjectId" id="1gJlhP4a1Ux753Pf0BbXGOFSBHq" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-  <component name="ProjectView">
+-    <navigator proportions="" version="1">
+-      <foldersAlwaysOnTop value="true" />
+-    </navigator>
+-    <panes>
+-      <pane id="ProjectPane">
+-        <subPane>
+-          <expand>
+-            <path>
+-              <item name="restappsber" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="restappsber" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="restappsber" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-              <item name="main" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="restappsber" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-              <item name="main" type="462c0819:PsiDirectoryNode" />
+-              <item name="java" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="restappsber" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-              <item name="main" type="462c0819:PsiDirectoryNode" />
+-              <item name="java" type="462c0819:PsiDirectoryNode" />
+-              <item name="sovliv" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="restappsber" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-              <item name="main" type="462c0819:PsiDirectoryNode" />
+-              <item name="java" type="462c0819:PsiDirectoryNode" />
+-              <item name="sovliv" type="462c0819:PsiDirectoryNode" />
+-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="restappsber" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-              <item name="main" type="462c0819:PsiDirectoryNode" />
+-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="restappsber" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-              <item name="test" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="restappsber" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-              <item name="test" type="462c0819:PsiDirectoryNode" />
+-              <item name="java" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="restappsber" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-              <item name="test" type="462c0819:PsiDirectoryNode" />
+-              <item name="java" type="462c0819:PsiDirectoryNode" />
+-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-          </expand>
+-          <select />
+-        </subPane>
+-      </pane>
+-      <pane id="Scope" />
+-      <pane id="PackagesPane" />
+-    </panes>
+-  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+@@ -219,11 +72,11 @@
+     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
+-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597845928937" />
++    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597759965436" />
+     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/net/sovliv" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/123/endpoint" />
+     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+     <property name="nodejs_package_manager_path" value="npm" />
+@@ -240,21 +93,23 @@
+       <recent name="$PROJECT_DIR$/src/main" />
+     </key>
+   </component>
+-  <component name="RunDashboard">
+-    <option name="ruleStates">
+-      <list>
+-        <RuleState>
+-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+-        </RuleState>
+-        <RuleState>
+-          <option name="name" value="StatusDashboardGroupingRule" />
+-        </RuleState>
+-      </list>
+-    </option>
+-  </component>
+-  <component name="RunManager" selected="Spring Boot.RestApplication (1)">
++  <component name="RunManager" selected="Docker.Dockerfile">
++    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
++      <option name="arquillianRunConfiguration">
++        <value>
++          <option name="containerStateName" value="" />
++        </value>
++      </option>
++      <option name="TEST_OBJECT" value="CLASS" />
++      <properties />
++      <listeners />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <configuration name="EndpointControllerTest " type="JUnit" factoryName="JUnit">
+       <module name="endpoint" />
++      <useClassPathOnly />
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="net.sovliv.controllers.*" />
+@@ -301,22 +156,6 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="EndpointControllerTest.eachNumberIsOneMore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+-      <module name="restappsber" />
+-      <extension name="coverage">
+-        <pattern>
+-          <option name="PATTERN" value="net.sovliv.*" />
+-          <option name="ENABLED" value="true" />
+-        </pattern>
+-      </extension>
+-      <option name="PACKAGE_NAME" value="net.sovliv" />
+-      <option name="MAIN_CLASS_NAME" value="net.sovliv.EndpointControllerTest" />
+-      <option name="METHOD_NAME" value="eachNumberIsOneMore" />
+-      <option name="TEST_OBJECT" value="method" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+     <configuration name="RestApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+       <module name="restappsber" />
+       <extension name="coverage">
+@@ -343,17 +182,32 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
++    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
++      <deployment type="dockerfile">
++        <settings>
++          <option name="imageTag" value="" />
++          <option name="buildCliOptions" value="" />
++          <option name="buildOnly" value="true" />
++          <option name="command" value="" />
++          <option name="containerName" value="" />
++          <option name="entrypoint" value="" />
++          <option name="commandLineOptions" value="" />
++          <option name="sourceFilePath" value="Dockerfile" />
++        </settings>
++      </deployment>
++      <method v="2" />
++    </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Spring Boot.RestApplication (1)" />
++        <item itemvalue="Docker.Dockerfile" />
++        <item itemvalue="Spring Boot.RestApplication (2)" />
+         <item itemvalue="JUnit.EndpointControllerTest" />
+-        <item itemvalue="Spring Boot.RestApplication (2)" />
++        <item itemvalue="Spring Boot.RestApplication (1)" />
+         <item itemvalue="JUnit.EndpointControllerTest.eachNumberIsOneMore (1)" />
+-        <item itemvalue="JUnit.EndpointControllerTest.eachNumberIsOneMore" />
+       </list>
+     </recent_temporary>
+   </component>
+-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="SvnConfiguration">
+     <configuration />
+   </component>
+@@ -371,14 +225,6 @@
+       <workItem from="1597840697332" duration="2966000" />
+     </task>
+     <servers />
+-  </component>
+-  <component name="TestHistory">
+-    <history-entry file="EndpointControllerTest - 2020.08.19 at 16h 51m 30s.xml">
+-      <configuration name="EndpointControllerTest" configurationId="JUnit" />
+-    </history-entry>
+-  </component>
+-  <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="825000" />
+   </component>
+   <component name="TodoView">
+     <todo-panel id="selected-file">
+@@ -388,44 +234,6 @@
+       <are-packages-shown value="true" />
+       <is-autoscroll-to-source value="true" />
+     </todo-panel>
+-  </component>
+-  <component name="ToolWindowManager">
+-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+-    <editor active="true" />
+-    <layout>
+-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16471216" />
+-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+-      <window_info id="Designer" order="2" />
+-      <window_info id="Image Layers" order="3" />
+-      <window_info id="Capture Tool" order="4" />
+-      <window_info id="UI Designer" order="5" />
+-      <window_info id="Favorites" order="6" side_tool="true" />
+-      <window_info id="Web" order="7" side_tool="true" />
+-      <window_info anchor="bottom" id="Message" order="0" />
+-      <window_info anchor="bottom" id="Find" order="1" />
+-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.4355363" />
+-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30444205" />
+-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+-      <window_info anchor="bottom" id="Spring" order="7" />
+-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2654388" />
+-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.4355363" />
+-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+-      <window_info anchor="bottom" id="Database Changes" order="13" />
+-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49946696" weight="0.18526544" />
+-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+-      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+-      <window_info anchor="right" id="Palette" order="4" />
+-      <window_info anchor="right" id="Capture Analysis" order="5" />
+-      <window_info anchor="right" id="Database" order="6" />
+-      <window_info anchor="right" id="Palette&#9;" order="7" />
+-      <window_info anchor="right" id="Theme Preview" order="8" />
+-    </layout>
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+@@ -435,28 +243,7 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State>
+-              <option name="RECENTLY_FILTERED_USER_GROUPS">
+-                <collection />
+-              </option>
+-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+-                <collection />
+-              </option>
+-            </State>
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-    <option name="RECENT_FILTERS">
+-      <map>
+-        <entry key="Branch">
+-          <value>
+-            <list />
+-          </value>
+-        </entry>
+-        <entry key="User">
+-          <value>
+-            <list />
++            <State />
+           </value>
+         </entry>
+       </map>
+@@ -467,42 +254,50 @@
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+     <state x="461" y="172" width="424" height="379" key="#BuildArtifactsBeforeRunChooser/0.0.1366.728@0.0.1366.728" timestamp="1597843330194" />
++    <state x="273" y="25" width="800" height="672" key="#Docker" timestamp="1597852249104">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="273" y="25" width="800" height="672" key="#Docker/0.0.1366.728@0.0.1366.728" timestamp="1597852249104" />
+     <state x="403" y="168" width="549" height="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597841088926">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+     <state x="403" y="168" width="549" height="385" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1597841088926" />
+-    <state width="1324" height="350" key="GridCell.Tab.0.bottom" timestamp="1597843609348">
++    <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl" timestamp="1597847006395">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1324" height="350" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597843609348" />
+-    <state width="1324" height="350" key="GridCell.Tab.0.center" timestamp="1597843609347">
++    <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597847006395" />
++    <state width="1324" height="283" key="GridCell.Tab.0.bottom" timestamp="1597854840333">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1324" height="350" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597843609347" />
+-    <state width="1324" height="350" key="GridCell.Tab.0.left" timestamp="1597843609347">
++    <state width="1324" height="283" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597854840333" />
++    <state width="1324" height="283" key="GridCell.Tab.0.center" timestamp="1597854840332">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1324" height="350" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597843609347" />
+-    <state width="1324" height="350" key="GridCell.Tab.0.right" timestamp="1597843609348">
++    <state width="1324" height="283" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597854840332" />
++    <state width="1324" height="283" key="GridCell.Tab.0.left" timestamp="1597854840318">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1324" height="350" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597843609348" />
+-    <state width="1324" height="211" key="GridCell.Tab.1.bottom" timestamp="1597840840340">
++    <state width="1324" height="283" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597854840318" />
++    <state width="1324" height="283" key="GridCell.Tab.0.right" timestamp="1597854840332">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1324" height="211" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597840840340" />
+-    <state width="1324" height="211" key="GridCell.Tab.1.center" timestamp="1597840840339">
++    <state width="1324" height="283" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597854840332" />
++    <state width="1324" height="214" key="GridCell.Tab.1.bottom" timestamp="1597846160586">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1324" height="211" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597840840339" />
+-    <state width="1324" height="211" key="GridCell.Tab.1.left" timestamp="1597840840339">
++    <state width="1324" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597846160586" />
++    <state width="1324" height="214" key="GridCell.Tab.1.center" timestamp="1597846160585">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1324" height="211" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597840840339" />
+-    <state width="1324" height="211" key="GridCell.Tab.1.right" timestamp="1597840840340">
++    <state width="1324" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597846160585" />
++    <state width="1324" height="214" key="GridCell.Tab.1.left" timestamp="1597846160585">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state width="1324" height="211" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597840840340" />
++    <state width="1324" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597846160585" />
++    <state width="1324" height="214" key="GridCell.Tab.1.right" timestamp="1597846160586">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state width="1324" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597846160586" />
+   </component>
+   <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+     <option name="sizePresets">
+@@ -538,60 +333,6 @@
+         <evaluation-mode>EXPRESSION</evaluation-mode>
+       </expression>
+     </expressions>
+-  </component>
+-  <component name="editorHistoryManager">
+-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+-      <provider selected="true" editor-type-id="text-editor" />
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="-220">
+-          <folding>
+-            <element signature="e#25339#25343#0" expanded="true" />
+-            <element signature="e#25350#25354#0" expanded="true" />
+-            <element signature="e#25377#25381#0" expanded="true" />
+-            <element signature="e#25381#25385#0" expanded="true" />
+-          </folding>
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/net/sovliv/controllers/EndpointController.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="22">
+-          <caret line="18" column="85" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
+-          <folding>
+-            <element signature="imports" expanded="true" />
+-          </folding>
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/Dockerfile">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="66">
+-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sovliv/controllers/EndpointControllerTest.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="69">
+-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+-          <folding>
+-            <element signature="imports" expanded="true" />
+-          </folding>
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/main/java/net/sovliv/RestApplication.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="132">
+-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+-          <folding>
+-            <element signature="imports" expanded="true" />
+-          </folding>
+-        </state>
+-      </provider>
+-    </entry>
+   </component>
+   <component name="masterDetails">
+     <states>

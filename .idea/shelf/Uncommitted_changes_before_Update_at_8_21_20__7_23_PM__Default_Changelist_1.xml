@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Update_at_8_21_20,_7_23_PM_[Default_Changelist]1" date="1598027071350" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_21_20,_7_23_PM_[Default_Changelist]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 8/21/20, 7:23 PM [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/docker-spring-boot.jar" />
+    <option name="AFTER_PATH" value="target/docker-spring-boot.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_21_20,_7_23_PM_[Default_Changelist]1/docker-spring-boot.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/docker-spring-boot.jar.original" />
+    <option name="AFTER_PATH" value="target/docker-spring-boot.jar.original" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_21_20,_7_23_PM_[Default_Changelist]1/docker-spring-boot.jar.original" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/net/sovliv/controllers/EndpointController.class" />
+    <option name="AFTER_PATH" value="target/classes/net/sovliv/controllers/EndpointController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_21_20,_7_23_PM_[Default_Changelist]1/EndpointController.class" />
+  </binary>
+</changelist>
